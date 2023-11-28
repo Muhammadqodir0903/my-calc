@@ -1,0 +1,36 @@
+.sec{
+    background: rgb(107, 107, 239);
+}
+.wrapper{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 100px;
+
+}
+
+.box{
+    background: rgb(251, 251, 251);
+    width: 150px;
+    border: 2px solid black;
+    text-align: center;
+    overflow: hidden;
+    
+}
+img{
+    width: 100%;
+    height: 50%;
+}
+.img1{
+    width: 100%;
+    height: 80px;
+}
+.inp{
+    display: block;
+    margin: 50px auto;
+
+}
+.piyoda{
+    display: block;
+    margin: 0 auto;
+}
